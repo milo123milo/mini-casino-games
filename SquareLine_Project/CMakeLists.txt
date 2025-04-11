@@ -1,0 +1,16 @@
+SET(SOURCES ui_Screen1.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    ui_img_back_dith_png.c
+    ui_img_logo_bicubic_cmooth_png.c
+    ui_img_money_bar_png.c
+    ui_img_spk_png.c
+    ui_img_arrow_left_png.c
+    ui_img_arrow_right_png.c
+    ui_img_slots_png.c
+    ui_img_black_jack_png.c
+    ui_img_dice_roll_png.c)
+
+add_library(ui ${SOURCES})

@@ -1,0 +1,11 @@
+1. Display:
+
+https://www.waveshare.com/wiki/2.8inch_Capacitive_Touch_LCD
+
+2. ESP32-S3 Dev Board
+
+https://www.amazon.com/YEJMKJ-ESP32-S3-DevKitC-1-N16R8-Development-ESP32-S3-WROOM-1-Microcontroller/dp/B0CDRM6BGQ
+
+3. DFPlayer Mini
+
+https://www.dfrobot.com/product-1121.html?srsltid=AfmBOoorr-GUDy_L-rSCkj_Q4qyFgLx0doRpLfJoMxx62YtO9b3gxJ-U
