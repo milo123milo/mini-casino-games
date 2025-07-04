@@ -41,7 +41,7 @@ Start Your Own Journey With Me 🚀✨
 </p>
 
 <p align="center">
-Got an idea or project in mind? Let’s bring it to life together — <strong><a href="https://miloperovic.com#contact">get in touch for a free quote</a></strong> 💬  
+Got an idea or project in mind?  - <strong><a href="https://miloperovic.com/contact">Get in touch for a free quote</a></strong> 💬  
 </p>
 
 <p align="center">
