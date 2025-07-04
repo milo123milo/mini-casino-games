@@ -32,7 +32,6 @@ It’s not just a toy — it’s an entry point into the world of **hardware pro
 ---
 
 
-<br>
 <p align="center">
 Made with ❤️ by Milo Perović  
 </p>
@@ -42,12 +41,17 @@ Start Your Own Journey With Me 🚀✨
 </p>
 
 <p align="center">
+Got an idea or project in mind? Let’s bring it to life together — <strong><a href="https://miloperovic.com#contact">get in touch for a free quote</a></strong> 💬  
+</p>
+
+<p align="center">
 <a href="https://miloperovic.com">https://miloperovic.com</a>
 </p>
 
 <p align="center">
 <img src="http://miloperovic.com/wp-content/uploads/2025/06/whAsset-2-1.svg" alt="Logo" width="100"/>
 </p>
+
 
 
 
